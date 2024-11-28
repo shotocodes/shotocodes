@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🌟 Shoto's Portfolio 🌟
 
-<!--
-**shotocodes/shotocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate full-stack developer exploring web technologies and software design.
 
-Here are some ideas to get you started:
+## About Me
+- 🖥️ Full-stack Developer
+- 🌍 Love working with Django and React
+- 🎯 Interested in building scalable web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Photo Studio Reservation System](https://github.com/shoto123/photo-studio)**  
+  A Django + React project for managing photo studio reservations.
+  
+- **[Personal Blog](https://github.com/shoto123/personal-blog)**  
+  A blog platform with a modern and intuitive UI.
+
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, SQL
+- **Frameworks**: Django, React, Express.js
+- **Tools**: Docker, Git, MySQL
